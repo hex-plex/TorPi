@@ -3,9 +3,9 @@
 <hr>
 <p><h2>Progress Or Task to be done</h2></p>
 <ol>
-	<li>Create a Proxy for tor on Pi</li>
+	<li><strike>Create a Proxy for tor on Pi</strike></li>
 	<li>Automate the above process</li>
-	<li>Try making  a code start a wifi hotspot from scratch</li>
-	<li> Try heavily automating all the two process in one liner code</li>
+	<li><strike>Try making  a code start a wifi hotspot from scratch</strike></li>
+	<li> <marque>Try heavily automating all the two process in one liner code<marque></li>
 	<li>Try making a network monitor on the Pi</li>
 </ol>
