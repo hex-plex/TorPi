@@ -1,4 +1,6 @@
 <H1>TorPi</H1><hr>
+<b>It is been overly hardcode for which i couldnt upload any thing <br/>
+Mostly My aim is to make a router which can control the data in and out and help us get basic lan connectivity to other devices to interact easily its not just redirecting all the queries through tor</b>
 <div><p>This my try to make a raspeberry pi wifi access point which would act as proxy to a tor server</p> </div>
 <hr>
 <p><h2>Progress Or Task to be done</h2></p>
